@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AsincronSounds</string>
+    <string name="playButton2">Play</string>
+    <string name="playButton1">Play</string>
+    <string name="StopButton">Stop</string>
+    <string name="textviewPlay2" />
+    <string name="textViewPlay2" />
+</resources>
